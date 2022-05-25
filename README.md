@@ -1,4 +1,4 @@
-### Hi There
+### Hi Dev :)
 
 - 👋 Olá, Eu sou o Felipe Magalhães
 - 👀 Tenho interesse em Front-End
