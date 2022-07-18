@@ -1,8 +1,8 @@
 ### Hi Dev :)
 
 - 👋 Olá, Eu sou o Felipe Magalhães
-- 👀 Tenho interesse em Front-End
-- 🌱 Estudando Desenvolvimento Web
+- 👀 Interesse em QA 
+- 🌱 Estudando Testes Automatizados
 - 💞️ Estou procurando por conhecimento na área.
 - 📫 Contate-me no e-mail: felipemsilva93@gmail.com
 
