@@ -1,8 +1,8 @@
 ### Hi Dev :)
 
 - 👋 Olá, Eu sou o Felipe Magalhães
-- 👀 Interesse em QA 
-- 🌱 Estudando Testes Automatizados
+- 👀 Interesse... 
+- 🌱 Estudando tecnologia.
 - 💞️ Estou procurando por conhecimento na área.
 - 📫 Contate-me no e-mail: felipemsilva93@gmail.com
 
