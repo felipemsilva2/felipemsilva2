@@ -1,7 +1,7 @@
 ### Hi Dev :)
 
 - 👋 Olá, Eu sou o Felipe Magalhães
-- 👀 Interesse... 
+- 👀 Interesse em Qualidade de Software
 - 🌱 Estudando tecnologia.
 - 💞️ Estou procurando por conhecimento na área.
 - 📫 Contate-me no e-mail: felipemsilva93@gmail.com
