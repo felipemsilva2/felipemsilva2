@@ -1,7 +1,7 @@
 ### Hi Testers :)
 
 - 👋 Olá, Eu sou o Felipe Magalhães
-- 👀 Qualidade de Software
+- 👀 Qualidade de Software | FinOps
 - 🌱 Estudando tecnologia.
 - 💞️ Estou procurando por conhecimento na área.
 - 📫 Contate-me no e-mail: felipemsilva93@gmail.com
