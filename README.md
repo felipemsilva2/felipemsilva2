@@ -1,30 +1,47 @@
-### Fala Testers :)
+# Fala, eu sou o Felipe! 👋
 
-- 👀 Qualidade de Softwar
-- 📫 Contate-me no e-mail: felipemsilva93@gmail.com
+### 🚀 Desenvolvedor Fullstack & Engenheiro de Agentes de IA
+Especialista em construir ecossistemas digitais de alta performance através de **Workflows Agênticos (Antigravity)**. Focado em transformar problemas complexos em produtos SaaS escaláveis.
 
-<div align="center">
-  <a href="https://github.com/felipemsilva2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemsilva2&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsilva2&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
-  
-  <div> 
-   
-  <a href = "mailto:felipemsilva93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipemgl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+---
+
+### 🧠 Featured Projects (Portfolio)
+
+#### 🏆 Apex Pro Ecosystem
+Plataforma SaaS multi-tenant (Web + Mobile) para consultoria fitness de elite.
+- **Diferencial:** Arquitetura agêntica com orquestração de skills para segurança (RLS), performance e design premium.
+- **Tech:** React, Expo, Supabase.
+
+#### 🚗 Vrumi
+SaaS de gestão e automação para o setor automotivo.
+- **Diferencial:** Foco em UX fluida e automação de fluxos de trabalho para otimização de processos internos.
+- **Tech:** React, Tailwind CSS, API Integrations.
+
+#### 🐾 Lupet
+Ecossistema voltado para o mercado Pet, conectando serviços e produtos de forma integrada.
+- **Diferencial:** Modelagem de dados escalável e interface focada na retenção e facilidade do usuário final.
+- **Tech:** Fullstack development com arquitetura moderna.
+
+---
+
+### 🛠️ Workflow & Toolbox
+Minha metodologia de trabalho utiliza a IA (Antigravity) como um multiplicador de produtividade, garantindo:
+- **Segurança de Dados:** Implementação rigorosa de políticas de acesso.
+- **Performance:** Código otimizado e baixo débito técnico.
+- **Design de Elite:** Interfaces consistentes e de alto valor percebido.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D04A37)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 📫 Vamos elevar o nível do seu software?
+- **Email:** felipemsilva93@gmail.com
+- **LinkedIn:** [Felipe Silva](https://www.linkedin.com/in/felipemgl/)
+
+---
+
+> "IA é a ferramenta, a engenharia é a alma do produto." 🦾
