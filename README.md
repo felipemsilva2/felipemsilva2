@@ -1,6 +1,6 @@
 # Fala, eu sou o Felipe! 👋
 
-### 🚀 Desenvolvedor Fullstack & Engenheiro de Agentes de IA
+### 🚀 Sou Analista de Qualidade de Software e me especializei em Desenvolvimento Fullstack & Engenheiro de Agentes de IA
 Especialista em construir ecossistemas digitais de alta performance através de **Workflows Agênticos (Antigravity)**. Focado em transformar problemas complexos em produtos SaaS escaláveis.
 
 ---
