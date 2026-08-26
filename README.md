@@ -2,24 +2,38 @@
 
 ### Software Engineer | QA
 
-Sou profissional de tecnologia com mais de **8 anos de experiência** em diferentes áreas de TI, com atuação em **Suporte Técnico, Qualidade de Software, Engenharia de Software**.
+Sou profissional de tecnologia com mais de **7 anos de experiência**, construindo minha trajetória desde **Suporte Técnico e Infraestrutura de TI** até a área de **Qualidade de Software**.
 
-Minha trajetória combina conhecimento técnico, visão analítica e experiência prática no desenvolvimento, validação e evolução de produtos digitais.
+Minha experiência profissional começou com suporte e infraestrutura, desenvolvendo uma base sólida em **troubleshooting, análise de problemas, atendimento técnico e resolução de incidentes**.
+
+Atualmente, estou direcionando minha carreira para **QA / Quality Engineering**, área na qual venho me especializando por meio de estudos, formação em Engenharia de Qualidade e principalmente **projetos práticos aplicados a produtos reais**.
 
 ---
 
-### 💼 Experiência
+### 💼 Minha trajetória
 
-Ao longo da minha carreira, desenvolvi experiência em diferentes etapas do ciclo de desenvolvimento de software:
+**Suporte Técnico**
 
-* **Engenharia de Qualidade (QA):** planejamento, execução e automação de testes funcionais, exploratórios, regressão e E2E.
-* **Automação de testes:** desenvolvimento de testes automatizados utilizando **Cypress e Playwright**.
-* **Testes de API:** validação de endpoints, contratos, status codes e integridade de dados utilizando **Postman e Newman**.
-* **Análise de requisitos:** identificação de regras de negócio, cenários e possíveis inconsistências.
-* **Suporte e troubleshooting:** investigação e resolução de problemas técnicos em ambientes de produção.
-* **Desenvolvimento de software:** experiência com aplicações Web, Mobile e SaaS utilizando **React, React Native e TypeScript**.
-* **Backend e dados:** experiência com **Supabase, PostgreSQL e APIs REST**.
-* **Produto e UX:** participação na construção e evolução de produtos digitais, conectando necessidades de negócio, experiência do usuário e implementação técnica.
+Iniciei minha carreira em tecnologia atuando com suporte técnico, desenvolvendo experiência em atendimento, investigação de problemas e resolução de incidentes.
+
+**Infraestrutura de TI**
+
+Posteriormente, atuei com suporte e infraestrutura, ampliando minha experiência em ambientes corporativos, troubleshooting e manutenção de sistemas e serviços de TI.
+
+**Engenharia de Qualidade / QA**
+
+Atualmente, estou em transição para QA, consolidando conhecimentos por meio de estudos e projetos práticos.
+
+Minha preparação inclui:
+
+* Testes funcionais, exploratórios e de regressão.
+* Testes E2E e automação com **Cypress e Playwright**.
+* Testes de API com **Postman e Newman**.
+* BDD e especificação de cenários com **Gherkin**.
+* Análise de requisitos e regras de negócio.
+* Identificação, documentação e acompanhamento de bugs.
+* Testes em aplicações **Web e Mobile**.
+* Projetos práticos desenvolvidos sobre **produtos reais**, permitindo aplicar conceitos de qualidade em cenários próximos ao ambiente profissional.
 
 ---
 
@@ -30,4 +44,3 @@ Ao longo da minha carreira, desenvolvi experiência em diferentes etapas do cicl
 * **Pós-graduação em Desenvolvimento de Software & Cloud Computing**
 * **MBA em Strategic Design & UX**
 * **Engenharia de Qualidade de Software — EBAC**
-
