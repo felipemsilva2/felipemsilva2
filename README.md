@@ -42,5 +42,4 @@ Minha preparação inclui:
 * **Engenharia de Software — FIAP**
 * **Gestão de Tecnologia da Informação**
 * **Pós-graduação em Desenvolvimento de Software & Cloud Computing**
-* **MBA em Strategic Design & UX**
 * **Engenharia de Qualidade de Software — EBAC**
